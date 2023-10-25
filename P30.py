@@ -1,3 +1,5 @@
+# Python program to implement a calculator to do basic operations.
+
 # Function to perform addition
 def add(x, y):
     return x + y
