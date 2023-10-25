@@ -1,3 +1,5 @@
+#  Python program to display the sum of n numbers using a list.
+
 # Input from the user for the number of values
 n = int(input("Enter the number of values you want to sum: "))
 
