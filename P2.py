@@ -1,3 +1,5 @@
+# Python program to find the area of a triangle whose sides are given.
+
 import math
 
 # Three sides of the triangle is x, y and z:
