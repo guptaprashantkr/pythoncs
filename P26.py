@@ -1,3 +1,4 @@
+# Python program to check leap year.
 
 # Input from the user for the year
 year = int(input("Enter a year: "))
