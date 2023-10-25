@@ -1,3 +1,5 @@
+#  Python program to delete an element from a list by index.
+
 # Input from the user for the list of elements
 elements = input("Enter a list of elements separated by spaces: ").split()
 
