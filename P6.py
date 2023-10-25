@@ -1,3 +1,5 @@
+# Python program to display the given integer in a reverse manner.
+
 # Input from the user
 num = int(input("Enter a number: "))
 
