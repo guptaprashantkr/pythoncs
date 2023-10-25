@@ -1,3 +1,5 @@
+# Python program to find the odd numbers in an array.
+
 # Input from the user for the array
 array = list(map(int, input("Enter a list of numbers separated by spaces: ").split()))
 
