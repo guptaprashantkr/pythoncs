@@ -1,3 +1,5 @@
+# Python program to find the circumference and area of a circle with a given radius.
+
 import math
 
 # Input from the user
