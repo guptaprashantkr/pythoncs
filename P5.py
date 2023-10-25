@@ -1,3 +1,5 @@
+# Python program to check whether the given integer is a multiple of both 5 and 7.
+
 # Input from the user
 num = int(input("Enter an integer: "))
 
