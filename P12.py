@@ -1,3 +1,4 @@
+# Python program to generate the prime numbers from 1 to N.
 
 # Input from the user
 N = int(input("Enter the upper limit N: "))
