@@ -1,3 +1,4 @@
+#  Python program to implement matrix multiplication.
 
 # Input from the user
 rows1 = int(input("Enter the number of rows for the first matrix: "))
