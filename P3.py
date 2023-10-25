@@ -1,3 +1,4 @@
+# Python program to find the product of a set of real numbers.
 
 # Input from the user
 num_count = int(input("Enter the number of real numbers you want to multiply: "))
