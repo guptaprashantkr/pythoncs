@@ -1,3 +1,5 @@
+# Python program to check whether a string is palindrome or not.
+
 # Input from the user
 string = input("Enter a string: ")
 
