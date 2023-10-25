@@ -1,8 +1,10 @@
+# Python program to print all the items in a dictionary.
+
 # Create a sample dictionary
 my_dict = {
     'name': 'Prashant',
     'age': 22,
-    'email': 'john@example.com',
+    'email': 'prashant@gmail.com',
     'city': 'Goa'
 }
 
