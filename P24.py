@@ -1,3 +1,4 @@
+# Python program to implement matrix addition.
 
 # Input from the user
 rows = int(input("Enter the number of rows: "))
