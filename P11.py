@@ -1,3 +1,5 @@
+#  Python program to check whether the given integer is a prime number or not.
+
 import math
 
 # Input from the user
