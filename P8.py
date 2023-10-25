@@ -1,3 +1,5 @@
+#  Python program to find the sum of the digits of an integer using a while loop.
+
 # Input from the user
 num = int(input("Enter an integer: "))
 
